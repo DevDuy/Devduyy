@@ -11,22 +11,13 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-<h3 align="center">.....................................  </h3>
-
-
-
-<p align="center">
-  <em>
-   ..................... .................... Dieenf thong tin vao day
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TanHipp" alt="TanHipp" /> <img src="https://badges.pufler.dev/repos/TanHipp" alt="" /> </p>
 
 
 
 
 - 👋 Hi, I’m Nguyen Quoc Duy
     
-- 🌱 I’m currently learning everything      
+- 🌱 I'm currently learning everything about this world     
     
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
   
