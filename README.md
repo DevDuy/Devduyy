@@ -148,7 +148,7 @@
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=Quoc-Duy-IT&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Devduyy&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
