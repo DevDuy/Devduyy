@@ -24,12 +24,10 @@
 
 
 
-- 👋 Hi, I’m ..................( TanHipp )
+- 👋 Hi, I’m Nguyen Quoc Duy
     
-- 🌱 I’m currently learning ................. 👨‍💻💪      
+- 🌱 I’m currently learning everything      
     
-- 🌱 I’m currently learning ....................................
-      
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
   
 
