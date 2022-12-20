@@ -20,12 +20,6 @@
 - 🌱 I'm currently learning everything about this world     
     
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
-  
-
-
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
@@ -44,10 +38,8 @@
   <a href="https://github.com/Quoc-Duy-IT" alt="Github">
   <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-  <img src="https://img.icons8.com/3d-fluency/65/000000/youtube-play.png"/>
-  </a>
-  <a href="nguyenquocduy14122003@gmail.com" alt="Email">
+ 
+  <a href="quocduyctvn@gmail.com" alt="Email">
   <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
@@ -140,9 +132,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ---
-
-# Certificates|Chứng nhận:
-...............................................................
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/TanHipp">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 💜</em>
